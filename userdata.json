@@ -16,6 +16,12 @@
         "key": "jakhar",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dd6eceeebacfc6fc",
+        "key": "jar",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
     
 
