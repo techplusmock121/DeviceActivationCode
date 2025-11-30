@@ -22,6 +22,11 @@
         "key": "jar",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },{
+        "device_id": "dd6eceeebacfc6fc",
+        "key": "jaar",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
     
 
